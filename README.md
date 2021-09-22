@@ -1,8 +1,7 @@
 ### Me chamam de Peuh. Olá sou Pedro Henrique Barreto
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 📫 How to reach me: ...
+- 🔭 Atualmente infra em TI. Breve Desenvolvedor Front-end
+- 🌱 Estudando AngularJS 12.
  <div>
   <a href="https://github.com/seisuk">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seisuk&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
