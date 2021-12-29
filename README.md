@@ -1,7 +1,7 @@
 ### Me chamam de Peuh. Olá sou Pedro Henrique Barreto
 
-- 🔭 Atualmente infra em TI. Breve Desenvolvedor Front-end
-- 🌱 Estudando AngularJS 12.
+- 🔭 Atualmente infra em TI. Estagiário na Essencial Gestão publica, Desenvolvedor Front-End
+- 🌱 Estudando React, aprimorando conhecimento em JS.
  <div>
   <a href="https://github.com/seisuk">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seisuk&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
