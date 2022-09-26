@@ -13,7 +13,7 @@
   <img align="center" alt="Seik-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Seik-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Seik-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/angularjs/angularjs-original.svg">
-  <img align="right" alt="Seik-animated" height="180" width="180" src="https://share-cdn.picrew.me/shareImg/org/202109/94097_6hVZ9FeA.png">
+  <img align="right" alt="Seik-animated" height="180" width="180" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.hostinger.com.br%2Ftutoriais%2F11-sites-aprender-como-programar-de-graca&psig=AOvVaw1U2Jv1_m-SYx8eYcohLMIB&ust=1664250348531000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCOCOxejFsfoCFQAAAAAdAAAAABAE">
 </div>
   
   ##
