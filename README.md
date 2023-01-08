@@ -1,7 +1,7 @@
 ### Me chamam de Peuh. Olá sou Pedro Henrique Barreto
 
-- 🔭 Atualmente trabalhando com Infra e helpdesk na PRFPE. Desenvolvedor Front-End 
-- 🌱 Estudando React, aprimorando conhecimento em JS/TS.
+- 🔭 Buscando vaga de Desenvolvedor Front-End.
+- 🌱 Estudando React, aprimorando conhecimento todos os dias, html, css, logica e JS/TS.
  <div>
   <a href="https://github.com/seisuk">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seisuk&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
